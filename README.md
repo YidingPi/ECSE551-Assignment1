@@ -4,7 +4,6 @@
 
 **Author:** Alex Pi  
 **Email:** alex.pi@mail.mcgill.ca  
-**Date:** February 19, 2025  
 
 ---
 
